@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "trend-x~HgBwHSaK#yfIyHdpPwpA9_bst7R3TkihkxvO2phbn4FXgKhlItYE"
     },  
     
     "STICKER_NAME": {
@@ -85,13 +85,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "TREND-X"
+      "value": "꧁𖤍࿐𝐋𝐎𝐑𝐃 𝕽𝕰𝕬𝕻𝕰𝕽"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254734939236"
+      "value": "242056401712"
 
     }, 
 
